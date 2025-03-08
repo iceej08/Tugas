@@ -24,7 +24,8 @@ body {
     padding: 30px;
     border-radius: 10px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
-    width: 300px;
+    width: 400px;
+    height: 500px;
     text-align: center;
 }
 
@@ -50,7 +51,7 @@ label {
 }
 
 input[type="text"], input[type="email"], input[type="password"], textarea {
-    width: 100%;
+    width: 95%;
     padding: 8px;
     margin-bottom: 10px;
     margin-left: -8px;
@@ -58,8 +59,8 @@ input[type="text"], input[type="email"], input[type="password"], textarea {
     border-radius: 5px;
 }
 .tanggal{
-    margin-top: -10px;
-    margin-bottom: 5px;
+    margin-top: auto;
+    margin-bottom: 15px;
 }
 
 
@@ -80,7 +81,6 @@ button:hover {
 a {
     color: #007bff;
     text-decoration: none;
-    margin-top: 5pxs;
 }
 
 a:hover {
