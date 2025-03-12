@@ -7,7 +7,7 @@
     <link rel="stylesheet" type="text/css" href="cvstyle.css">
 </head>
 <body>
-    <div class="container2">
+    <div class="container">
     <h1>Login</h1>
     <form action="login.php" method="POST">
             <label for="email"> Email: </label>
